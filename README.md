@@ -21,3 +21,6 @@ El flow 3 es el tercer ejercicio a realizar en el curso de NodeRed. Este ejercic
 
 # Resultados
 ![image](https://user-images.githubusercontent.com/111294774/189576748-8e82f680-e45d-4aa6-b9c9-2c8f31447515.png)
+
+![image](https://user-images.githubusercontent.com/111294774/189579326-ba3b5977-ad61-4c66-99a5-1e739197ab71.png)
+
